@@ -1,0 +1,52 @@
+<application>
+  <component name="libraryTable">
+    <library name="ant-netrexx">
+      <CLASSES>
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-netrexx.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-commons-logging.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-testutil.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-jdepend.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-junit.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-bsf.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-jai.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-jmf.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-jsch.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-oro.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-javamail.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-xalan2.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-launcher.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-resolver.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-swing.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-commons-net.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-regexp.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-junit4.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-log4j.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-antlr.jar!/" />
+        <root url="jar://$APPLICATION_HOME_DIR$/lib/ant/lib/ant-apache-bcel.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+    <library name="Dart SDK">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Tools/flutter/bin/cache/dart-sdk/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <excluded>
+        <root url="file://$USER_HOME$/Tools/flutter/bin/cache/dart-sdk/lib/_blink" />
+        <root url="file://$USER_HOME$/Tools/flutter/bin/cache/dart-sdk/lib/_chrome" />
+        <root url="file://$USER_HOME$/Tools/flutter/bin/cache/dart-sdk/lib/_internal" />
+        <root url="file://$USER_HOME$/Tools/flutter/bin/cache/dart-sdk/lib/dev_compiler" />
+      </excluded>
+    </library>
+    <library name="openapi1">
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Downloads/idea-IC-129.1561/lib/openapi.jar!/" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
